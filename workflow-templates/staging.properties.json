@@ -1,0 +1,8 @@
+{
+    "name": "Dhali WordPress Staging Action",
+    "description": "Dhali Organization CI/CD workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "PHP"
+    ]
+}
